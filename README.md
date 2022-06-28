@@ -1,5 +1,5 @@
 # covid-detection
-Detecting if a lung x-ray is of covid positive person or of a normal person
+Detecting if a Chest x-ray is of covid positive person or of a normal person
 
 ![download (1)](https://user-images.githubusercontent.com/87748321/176020788-26b35dc5-ecdf-4372-b734-790189c6b2ba.png)
 
