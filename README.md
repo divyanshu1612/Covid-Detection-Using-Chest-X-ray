@@ -11,7 +11,7 @@ Image masks are used to make only lung region visible and rest area black.
 
 - ImageDataGenerators are used to load trainging and validation data at training time.
 
-- Trainging is done for 30 epochs and 89.3 % accuracy obtained on finally on testing data.
+- Trainging is done for 30 epochs and finally 89.3 % accuracy obtained on testing data.
 
 Dataset is taken from Kaggle names covid19-radiography-database available at following link :- https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database.
 
